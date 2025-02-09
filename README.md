@@ -25,3 +25,7 @@ Run the script and start your productivity journey!
 ```sh
 python pomodoro.py
 ```
+
+## 📷 Screenshot
+![image](https://github.com/user-attachments/assets/e4eb5c75-74f8-4206-9ac9-b4ad696d362b)
+
